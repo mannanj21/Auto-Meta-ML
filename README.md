@@ -48,4 +48,5 @@ npm run dev.js 14, React, TailwindCSS, Recharts
 MIT License
 
 ## Authors
-Your Name - Meta-Learning Research Project
+Mannan Jain
+Dron Garg
