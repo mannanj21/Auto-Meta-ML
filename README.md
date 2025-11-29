@@ -48,5 +48,5 @@ npm run dev.js 14, React, TailwindCSS, Recharts
 MIT License
 
 ## Authors
-Mannan Jain
-Dron Garg
+- Mannan Jain
+- Dron Garg
