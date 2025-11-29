@@ -12,8 +12,6 @@ dist/
 build/
 
 # Data files
-*.csv
-*.pkl
 *.joblib
 data/temp/*
 !data/temp/.gitkeep
