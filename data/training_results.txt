@@ -1,0 +1,22 @@
+META-LEARNING TRAINING RESULTS
+========================================
+
+Datasets used: 51
+Features selected: 20
+
+PERFORMANCE METRICS:
+Average Accuracy: 0.7377 (+/- 0.1384)
+Average Hamming Loss: 0.2623 (+/- 0.1384)
+Average F1 Score: 0.7118 (+/- 0.1497)
+
+TOP SELECTED FEATURES:
+1. CfsSubsetEval_DecisionStumpErrRate
+2. CfsSubsetEval_NaiveBayesKappa
+3. ClassEntropy
+4. DecisionStumpErrRate
+5. Dimensionality
+6. MajorityClassPercentage
+7. MajorityClassSize
+8. MinorityClassSize
+9. NaiveBayesErrRate
+10. NaiveBayesKappa
